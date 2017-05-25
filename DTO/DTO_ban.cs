@@ -7,7 +7,7 @@ namespace DTO
 {
     public class DTO_ban
     {
-        #region
+        #region Properties
         private string maBan;
 
         public string MaBan
